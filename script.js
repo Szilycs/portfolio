@@ -1,14 +1,14 @@
 const images = [
 
-    "images/bizonyitvany.PNG",
-    "images/éretségi.PNG",
-    "images/szakmai_oklevel.PNG",
-    "images/angol.PNG",
-    "images/bmsc_oklevel.PNG",
-    "images/csico1.PNG",
-    "images/cisco2.PNG",
-    "images/cisco3.PNG",
-    "images/cisco4.PNG"
+    "images/bizonyitvany.png",
+    "images/éretségi.png",
+    "images/szakmai_oklevel.png",
+    "images/angol.png",
+    "images/bmsc_oklevel.png",
+    "images/csico1.png",
+    "images/cisco2.png",
+    "images/cisco3.png",
+    "images/cisco4.png"
 
 ];
 
